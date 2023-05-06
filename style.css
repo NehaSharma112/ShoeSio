@@ -439,5 +439,10 @@ section nav label .material-symbols-outlined{
     .contact .left{
         display: none;
     }
-     
+    .credential button{
+        width: 15rem;
+    }
+    .credential input{
+        width: 15rem;
+    }
 }
