@@ -433,7 +433,7 @@ section nav label .material-symbols-outlined{
         margin: 0%;
         background-color: bisque;
         width: 100vw;
-        height: 60vh;
+        height: 40vh;
         left: 0;
     }
     .contact .left{
@@ -444,5 +444,17 @@ section nav label .material-symbols-outlined{
     }
     .credential input{
         width: 15rem;
+    }
+    section .home .left button{
+        margin-top: 8vh;
+        height: 5vh;
+        width: 40vw;
+        background-image: linear-gradient(to right, blueviolet , rgb(224, 99, 141));
+        border-radius: 30px;
+        color: white;
+        cursor: pointer;
+    }
+    section .home .left button:hover{
+        transform: scale(1.2);
     }
 }
