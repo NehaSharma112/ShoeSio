@@ -406,7 +406,7 @@ section nav label .material-symbols-outlined{
         text-align: center;
         cursor: pointer;
         z-index: 10;
-        position: sticky;
+        position: fixed;
     }
     section nav .search{
         display: none;
